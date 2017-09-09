@@ -15,3 +15,4 @@ function happyHolidaysTo(holiday, name) {
 function holidayCountdown(days, Thanksgiving) {
   return string(`It's ${days} days until ${holiday}!`)
 }
+holidayCountdown parseInt(75)
